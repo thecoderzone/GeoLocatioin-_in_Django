@@ -1,0 +1,22 @@
+# Django generated files
+*.pyc
+__pycache__/
+*.sqlite3
+*.pyo
+*.pyc
+*.pyd
+*.swp
+*.bak
+*.tmp
+*.db
+*.DS_Store
+*.pyc
+*.sdb
+*.log
+*.pyc
+*.tmp
+*.pid
+*.pid.lock
+
+# Virtual environment
+shops_venv/
