@@ -34,12 +34,13 @@ $  source venv/scripts/activate
 For Mac
 
 $  source venv/bin/activate
+
 3. Clone this project
 
-$  git clone https://github.com/vijaythapa333/django-student-management-system.git
+$  git clone (https://github.com/thecoderzone/GeoLocation_in_Django.git)
+
 Then, Enter the project
 
-$  cd django-student-management-system
-4. Install Requirements from 'requirements.txt'
+$  cd GeoLocation_in_Django
 
-$  pip freeze rwquirement.txt
+$  pip install -r requirements.txt
