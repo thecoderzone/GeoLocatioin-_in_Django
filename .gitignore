@@ -17,6 +17,6 @@ __pycache__/
 *.tmp
 *.pid
 *.pid.lock
-
+*.env
 # Virtual environment
 shops_venv/
