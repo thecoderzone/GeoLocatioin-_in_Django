@@ -78,9 +78,9 @@ WSGI_APPLICATION = 'nearbyshops.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.contrib.gis.db.backends.postgis',
-        'NAME': 'shops',
-        'USER': 'shopad',
-        'PASSWORD':'shoppass',
+        'NAME': 'pharmacy',
+        'USER': 'pharmaadmin',
+        'PASSWORD':'pharmapass',
         'HOST': 'localhost',
         'PORT': '5432',
     }
