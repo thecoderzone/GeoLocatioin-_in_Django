@@ -6,6 +6,7 @@ from geopy.geocoders import Nominatim
 from geopy.exc import GeocoderQueryError
 
 
+
 class Shop(models.Model):
     name = models.CharField(max_length=200)
     address = models.CharField(max_length=100)
