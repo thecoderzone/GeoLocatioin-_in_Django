@@ -39,7 +39,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django.contrib.gis',
     'shops',
-    'geopy',
 ]
 
 MIDDLEWARE = [
@@ -80,7 +79,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.contrib.gis.db.backends.postgis',
         'NAME': 'shops',
-        'USER': 'shopadmi',
+        'USER': 'shopad',
         'PASSWORD':'shoppass',
         'HOST': 'localhost',
         'PORT': '5432',
