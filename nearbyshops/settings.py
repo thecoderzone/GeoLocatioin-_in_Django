@@ -79,7 +79,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.contrib.gis.db.backends.postgis',
         'NAME': 'pharmacy',
-        'USER': 'pharmaadmin',
+        'USER': 'pharmadmin',
         'PASSWORD':'pharmapass',
         'HOST': 'localhost',
         'PORT': '5432',
