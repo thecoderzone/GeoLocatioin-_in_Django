@@ -1,0 +1,2309 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.60.6 e2dc3e5b",
+  "osm3s": {
+    "timestamp_osm_base": "2023-07-08T20:52:39Z",
+    "timestamp_areas_base": "2023-07-08T16:15:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 3073535099,
+      "lat": 5.5698108,
+      "lon": -0.2393468,
+      "tags": {
+        "amenity": "pharmacy",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4775971607,
+      "lat": 5.2969926,
+      "lon": -2.0001702,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Adom Chemical Shop",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5087711022,
+      "lat": 5.9986489,
+      "lon": 0.5951591,
+      "tags": {
+        "amenity": "pharmacy",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5128389744,
+      "lat": 5.3025007,
+      "lon": -1.9874068,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Grammar Chemist",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5359291446,
+      "lat": 5.3094326,
+      "lon": -1.996409,
+      "tags": {
+        "amenity": "pharmacy",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5396300917,
+      "lat": 6.1013264,
+      "lon": 1.1474524,
+      "tags": {
+        "amenity": "pharmacy",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5626514774,
+      "lat": 5.6142486,
+      "lon": -0.2452343,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Akweteyman",
+        "addr:street": "Teiku Baah Street",
+        "addr:suburb": "Nii Boi Town",
+        "name": "Avenue Chemist",
+        "operator": "private_profit",
+        "phone": "0503360101",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5731809953,
+      "lat": 5.6445917,
+      "lon": -0.0943469,
+      "tags": {
+        "name": "K.B Ofusu",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5894057642,
+      "lat": 6.6957958,
+      "lon": -1.622567,
+      "tags": {
+        "addr:city": "Kumasi",
+        "addr:country": "GH",
+        "addr:district": "Kumasi Metropolitan",
+        "addr:province": "Ashanti Region",
+        "addr:street": "Asomfo Road",
+        "level": "0",
+        "name": "Evergreen Chemist Ltd",
+        "phone": "+233322024732",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5969958568,
+      "lat": 5.5652463,
+      "lon": -0.2346467,
+      "tags": {
+        "name": "Franeva Chemist",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6032341075,
+      "lat": 5.8617506,
+      "lon": 0.7625219,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6039851301,
+      "lat": 5.6074574,
+      "lon": -0.2448156,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6071775135,
+      "lat": 5.6086606,
+      "lon": -0.246667,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6166598197,
+      "lat": 5.16309,
+      "lon": -1.608215,
+      "tags": {
+        "name": "Emmanuel Armah",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6169129548,
+      "lat": 6.7280801,
+      "lon": -1.6429055,
+      "tags": {
+        "name": "Anthony Osei Kwarteng - Licenced over the counter medicine seller",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6259342770,
+      "lat": 5.601941,
+      "lon": -0.2410181,
+      "tags": {
+        "name": "Sarpong",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6277015915,
+      "lat": 5.6168827,
+      "lon": -0.2424288,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Transformer",
+        "addr:street": "Kolente Street",
+        "addr:suburb": "Akweteyman",
+        "amenity": "chemist",
+        "description": "small chemical shop",
+        "dispensing": "no",
+        "emergency": "no",
+        "name": "Elizabeth Oppong License Chemical Shop",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "operator": "private_profit",
+        "shop": "chemist",
+        "source": "Open Cities Accra - Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6277016149,
+      "lat": 5.6178273,
+      "lon": -0.242072,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Transformer",
+        "addr:street": "Ofori Tibo Avenue",
+        "addr:suburb": "Akweteyman",
+        "name": "Farmart",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "shop": "chemist",
+        "source": "Open Cities Accra - Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6279111371,
+      "lat": 5.6156184,
+      "lon": -0.240946,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Akweteyman",
+        "addr:street": "Kolente Street",
+        "addr:suburb": "Nii Boi Town",
+        "name": "With Allah All Things Are Possible",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6283472873,
+      "lat": 5.6128146,
+      "lon": -0.2368712,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Akweteyman",
+        "addr:street": "Maringa Street",
+        "addr:suburb": "Akweteyman",
+        "name": "EddyPerp Chemical Store",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "chemist",
+        "source": "Open Cities Accra - Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6285113285,
+      "lat": 5.6116963,
+      "lon": -0.233551,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Akweteyman",
+        "addr:street": "Aaye-Ayee Fɛɛ Close",
+        "addr:suburb": "Akweteyman",
+        "name": "AB Mills Retail",
+        "opening_hours": "Mo-Sa 7:00-22:00, Su 10:00-21:00",
+        "phone": "0244829128",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6285113296,
+      "lat": 5.6116631,
+      "lon": -0.2335108,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:street": "Ayee Ayee Fee Avenue",
+        "addr:suburb": "Akweteyman",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "Lifeview Medical Laboratory",
+        "phone": "0302238777",
+        "shop": "chemist",
+        "source": "Open Cities Accra - Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6285113340,
+      "lat": 5.6128287,
+      "lon": -0.2333669,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Akweteyman",
+        "addr:street": "Agya Nkansah Enterprise",
+        "addr:suburb": "Akweteyman",
+        "shop": "chemist",
+        "source": "Open Cities Accra - Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6285774228,
+      "lat": 5.6143909,
+      "lon": -0.2335624,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Akweteyman",
+        "addr:street": "Aaye Ayee Fee Avenue",
+        "addr:suburb": "Akweteyman",
+        "name": "Cristo Nti",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "phone": "0243928626",
+        "shop": "chemist",
+        "source": "Open Cities Accra - Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6285774279,
+      "lat": 5.6158966,
+      "lon": -0.2385662,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:street": "Tienyo Street",
+        "addr:suburb": "Akweteyman",
+        "name": "Agrartha Ehuren",
+        "shop": "chemist",
+        "source": "Open Cities Accra - Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6285774522,
+      "lat": 5.614516,
+      "lon": -0.2336797,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Akweteyman",
+        "addr:street": "Aaye Ayee Fee Avenue",
+        "addr:suburb": "Akweteyman",
+        "name": "Dennis Mensah",
+        "shop": "chemist",
+        "source": "Open Cities Accra - Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6286544254,
+      "lat": 6.8046261,
+      "lon": -2.5173157,
+      "tags": {
+        "addr:street": "Kofi Solo Avenue",
+        "name": "Addo Kay Agro",
+        "phone": "0245209335",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6290813496,
+      "lat": 5.6103824,
+      "lon": -0.2395414,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Fly Top",
+        "addr:street": "Dzagble Avenue",
+        "addr:suburb": "Akweteyman",
+        "name": "Helen M. Narh",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "phone": "0577099916",
+        "shop": "chemist",
+        "source": "Open Cities Accra - Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6290813816,
+      "lat": 5.6102423,
+      "lon": -0.2453661,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nii Boi Town",
+        "addr:street": "Teiku Baah Street",
+        "addr:suburb": "Akweteyman",
+        "name": "D.K Asante Licensed Chemical Shop",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "phone": "0275563313",
+        "shop": "chemist",
+        "source": "Open Cities Accra - Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6329668374,
+      "lat": 5.5733963,
+      "lon": -0.2730904,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6352912875,
+      "lat": 5.6051767,
+      "lon": -0.2474713,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6388060053,
+      "lat": 6.109199,
+      "lon": -0.2456947,
+      "tags": {
+        "name": "Drug Store",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6390568816,
+      "lat": 6.1030433,
+      "lon": -0.2544103,
+      "tags": {
+        "name": "Drug Store",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6499452719,
+      "lat": 5.6096412,
+      "lon": -0.2473,
+      "tags": {
+        "description": "OTCMS - Licensed Over The Counter Medicine Seller",
+        "name": "Bridget AsieduL OTCMS",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6548990402,
+      "lat": 8.5867354,
+      "lon": 0.2386555,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6548998799,
+      "lat": 8.9319591,
+      "lon": -0.0165791,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6553290009,
+      "lat": 6.6035021,
+      "lon": 0.4855101,
+      "tags": {
+        "name": "Evebel Chemical Shop",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6581224146,
+      "lat": 5.6234951,
+      "lon": -0.0918627,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6584417928,
+      "lat": 5.5610696,
+      "lon": -0.1618808,
+      "tags": {
+        "name": "Sadads Chemist",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6635792108,
+      "lat": 6.8029954,
+      "lon": -2.5159639,
+      "tags": {
+        "name": "Sabah Drug Centre",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6637080291,
+      "lat": 6.7889223,
+      "lon": -2.516795,
+      "tags": {
+        "name": "Gyidiem Chemical Store",
+        "shop": "chemist",
+        "source": "Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6760291141,
+      "lat": 6.8142328,
+      "lon": -2.5336387,
+      "tags": {
+        "addr:street": "Mim-Kukuom road",
+        "name": "O.T.C Drugstore",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6926885056,
+      "lat": 5.5923806,
+      "lon": -0.1905939,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "Baba Alhamdu Street",
+        "addr:suburb": "Kaukudi",
+        "name": "Jacob L. Chemical Shop",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6926903308,
+      "lat": 5.5920254,
+      "lon": -0.1909733,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "Baba Alhamdu Street",
+        "addr:suburb": "Kaukudi",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6927354000,
+      "lat": 5.5879402,
+      "lon": -0.1955517,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "name": "Joshua herbal licensed shop",
+        "phone": "0268859229",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6935538248,
+      "lat": 5.5324864,
+      "lon": -0.4363724,
+      "tags": {
+        "name": "A.A. Agenes pharmacy",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6958422933,
+      "lat": 5.582159,
+      "lon": -0.1987517,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "Yahaya Street",
+        "addr:suburb": "Borla",
+        "name": "Gaskia Herbal",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6960812138,
+      "lat": 5.5816999,
+      "lon": -0.1998997,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "Alhaji Mayaki Street",
+        "addr:suburb": "Kusuntu Line",
+        "name": "Obuoba Chemicals",
+        "phone": "+233208184072",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6960841525,
+      "lat": 5.5813739,
+      "lon": -0.1988653,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "Alhaji Mayaki Street",
+        "addr:suburb": "Nima Market",
+        "name": "Lucky Herbal Centre",
+        "phone": "+233559700281",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6975166316,
+      "lat": 5.5811339,
+      "lon": -0.1987195,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "Al-Waleed Bin-Talal Highway",
+        "addr:suburb": "Nima Market",
+        "name": "UB Pharma Incorporated",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "phone": "+233208338345",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6975237609,
+      "lat": 5.5831133,
+      "lon": -0.1963951,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "Mallam Suraqa Street",
+        "addr:suburb": "Hot Coffee",
+        "name": "Emmanuel Kwabena Over The Counter Medicine Practitioner",
+        "phone": "+233242305030",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6975713577,
+      "lat": 5.5828812,
+      "lon": -0.201637,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "Yahaya Seidu Street",
+        "addr:suburb": "Kusuntu Line",
+        "city": "Accra",
+        "name": "Bright O.A Chemical Seller",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6976820676,
+      "lat": 5.5797992,
+      "lon": -0.2017558,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "Samba Close",
+        "addr:suburb": "Free Pipe",
+        "name": "Maama Vida Herbal Shop",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6979529013,
+      "lat": 5.589854,
+      "lon": -0.1918943,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "Kanda Highway",
+        "addr:suburb": "Nafiu",
+        "name": "A.N. Mukhtar Licensed Chemical Shop",
+        "phone": "+233244289358",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6979983137,
+      "lat": 5.5879144,
+      "lon": -0.1935911,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:suburb": "Nafiu",
+        "name": "Alima Herbal Medicine",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6979983142,
+      "lat": 5.5879358,
+      "lon": -0.192368,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "Kanda Highway",
+        "addr:suburb": "Nafiu",
+        "name": "Voice of the Needy's Natural Health Consult",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6983622977,
+      "lat": 5.5880425,
+      "lon": -0.1944268,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:suburb": "Gutter",
+        "name": "Anthony Agyeman Licensed Chemical Seller",
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6983626676,
+      "lat": 5.5856187,
+      "lon": -0.2063048,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "Ajakroba Street",
+        "addr:suburb": "New Town",
+        "name": "Anas Comfortly",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "phone": "+233266148325",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6983704703,
+      "lat": 5.578408,
+      "lon": -0.1969136,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:suburb": "Frankies Down",
+        "name": "E A Hammond",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6983705261,
+      "lat": 5.5826716,
+      "lon": -0.2035367,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "Edward Akufo Addo Street",
+        "addr:suburb": "Kusuntu Line",
+        "name": "J K Chemical Shop",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "phone": "+233244615334",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6983737328,
+      "lat": 5.5892314,
+      "lon": -0.1962118,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "Al-Waleed Bin-Talal Highway",
+        "addr:suburb": "Hamburg",
+        "name": "Rahma Herbal Center",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "phone": "+233248950585",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6983737331,
+      "lat": 5.5895161,
+      "lon": -0.1942563,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "Baba Alhamdu Street",
+        "addr:suburb": "Hamburg",
+        "name": "Alexander Kissi",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6984618038,
+      "lat": 5.5803196,
+      "lon": -0.201917,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "off Oku Street",
+        "name": "Hope Anointing Shop",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "phone": "+233243450748",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6985230178,
+      "lat": 5.5800982,
+      "lon": -0.2036548,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:suburb": "Alafia",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6985230187,
+      "lat": 5.5781975,
+      "lon": -0.2013159,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "Mallam Kamaludeen Street",
+        "addr:suburb": "Roundabout",
+        "name": "Emmanuel Spiritual & Herbal Shop",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6987284871,
+      "lat": 5.5850314,
+      "lon": -0.1984191,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "Islamic Research Street",
+        "addr:suburb": "Borla",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6987742141,
+      "lat": 5.5882773,
+      "lon": -0.2072065,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "Obaakrowa Close",
+        "building:material": "cement_block;metal;wood",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "phone": "+233543896460",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6989978811,
+      "lat": 5.5868787,
+      "lon": -0.1968527,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "name": "Set Time Natural Health Consult",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6991147495,
+      "lat": 5.5818619,
+      "lon": -0.197784,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "Alhaji Norga Street",
+        "name": "The Hash Telecom",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6991166641,
+      "lat": 5.5784442,
+      "lon": -0.1049264,
+      "tags": {
+        "name": "James Laryea Gar Chemical Store",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7012078850,
+      "lat": 5.5842092,
+      "lon": -0.2005756,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "Mallam Murtala Street",
+        "addr:suburb": "German Base",
+        "name": "Harriet Mirekua Licensed Chemicals",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7012078890,
+      "lat": 5.5853411,
+      "lon": -0.2003181,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "Mallam Kamka Street",
+        "addr:suburb": "Mallam Sani",
+        "name": "Seth Frimpong",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7015145755,
+      "lat": 5.5815611,
+      "lon": -0.2059937,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "Ajakroba Street",
+        "addr:suburb": "Angola",
+        "name": "Ebenezer Wiafe Bediako Licensed Over-the-Counter-Medicine Seller",
+        "phone": "+233557963163",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7015538759,
+      "lat": 5.5823526,
+      "lon": -0.2083921,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "New Town Road",
+        "addr:suburb": "Accra New Town",
+        "name": "Nana Boakye Herbal Shop",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7016154599,
+      "lat": 5.5861182,
+      "lon": -0.1932741,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:suburb": "441",
+        "name": "G&D Iceburg Health Care",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "phone": "0242155485",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7016366384,
+      "lat": 5.5811225,
+      "lon": -0.2066148,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "Akoa Ndor Street",
+        "addr:suburb": "New Town Commandos",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7018082811,
+      "lat": 5.5837811,
+      "lon": -0.206688,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "Ajakroba Street",
+        "addr:suburb": "New Town",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7018194977,
+      "lat": 5.5870561,
+      "lon": -0.2004352,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "Edward Akuffo Addo Street",
+        "addr:suburb": "Berlin Bridge",
+        "name": "O. K. Brown",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7018230618,
+      "lat": 5.587829,
+      "lon": -0.1991272,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "Edward Akuffo Addo Street",
+        "addr:suburb": "Berlin Bridge",
+        "name": "MHS Nyamekye Chemical Shop",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "phone": "+233264163639",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7019452305,
+      "lat": 5.5890331,
+      "lon": -0.2068402,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "NewTown Road",
+        "addr:suburb": "Sweet Apple",
+        "name": "Anita Nyame Tobbin",
+        "phone": "+233243140336",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7019713058,
+      "lat": 5.5876554,
+      "lon": -0.2039766,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "Obaakrowa Close",
+        "addr:suburb": "Kotobabi",
+        "name": "Kwasi Gyane Over The Counter Medicine",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7020673114,
+      "lat": 5.5869702,
+      "lon": -0.1950331,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:suburb": "441",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7020673129,
+      "lat": 5.5855333,
+      "lon": -0.1956725,
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:suburb": "441",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7063447578,
+      "lat": 7.5819167,
+      "lon": -1.9363657,
+      "tags": {
+        "name": "Emmens Chemical .",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7078453891,
+      "lat": 5.6453408,
+      "lon": -0.2605465,
+      "tags": {
+        "addr:housenumber": "112",
+        "addr:street": "Peace Avenue",
+        "name": "Kingsley K. Totimeh Licensed Chemical Seller",
+        "phone": "0242923504",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7112531950,
+      "lat": 6.0980293,
+      "lon": 1.145233,
+      "tags": {
+        "name": "Winifred Ababio Hiamedo",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7183931439,
+      "lat": 7.3305523,
+      "lon": -2.3407429,
+      "tags": {
+        "name": "Nhyira Chemicals",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7185367701,
+      "lat": 9.4212068,
+      "lon": -1.0438751,
+      "tags": {
+        "name": "Yakubu Abdullah Chemists",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7191511785,
+      "lat": 6.6884013,
+      "lon": -1.6197608,
+      "tags": {
+        "name": "Kinapharma Limited",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7194973888,
+      "lat": 5.6149824,
+      "lon": -0.2488015,
+      "tags": {
+        "name": "W. K. Appiah",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7223374341,
+      "lat": 5.6490976,
+      "lon": -0.2566219,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7233768645,
+      "lat": 5.6484856,
+      "lon": -0.2559264,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7388379167,
+      "lat": 5.3482088,
+      "lon": -0.6286506,
+      "tags": {
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "City Chemicals",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7395522567,
+      "lat": 5.3519669,
+      "lon": -0.6307529,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7441173154,
+      "lat": 5.6176509,
+      "lon": -0.2517726,
+      "tags": {
+        "name": "Obitu A. Adam OTC",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7455296248,
+      "lat": 10.0647305,
+      "lon": -2.5035422,
+      "tags": {
+        "name": "Alhassan Chemical Shop",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7606543530,
+      "lat": 6.1945062,
+      "lon": -2.3227125,
+      "tags": {
+        "addr:city": "Sefwi Bekwai",
+        "addr:postcode": "P.O.Box34",
+        "amenity": "chemists",
+        "healthcare": "over the counter medicine",
+        "level": "1",
+        "name": "George kwasi Ataah over the counter chemical store",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "opening_hours:covid19": "open",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7629520514,
+      "lat": 5.5357055,
+      "lon": -0.228075,
+      "tags": {
+        "name": "Univon Chemist",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7637972260,
+      "lat": 5.6665364,
+      "lon": -0.2047808,
+      "tags": {
+        "name": "Rebeacon Chemists",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7680295224,
+      "lat": 5.6599715,
+      "lon": -0.1380615,
+      "tags": {
+        "fixme": "check node position",
+        "name": "Patrick Boakye Godmyeth Over the Counter MedicineSeller",
+        "phone": "+233 244 658 376",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7745053587,
+      "lat": 5.6904625,
+      "lon": -0.1981469,
+      "tags": {
+        "description": "Over The Counter Medicine Seller",
+        "name": "Cee's Drug Store",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7759144166,
+      "lat": 5.6691225,
+      "lon": -0.2055307,
+      "tags": {
+        "name": "Nana Boakye",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7775291916,
+      "lat": 5.5741896,
+      "lon": -0.2791557,
+      "tags": {
+        "name": "Unicon Chemist Limited",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7823673422,
+      "lat": 5.6817565,
+      "lon": -0.2058094,
+      "tags": {
+        "name": "Sussanne Chemists",
+        "opening_hours": "Mo-Su 08:30-21:00",
+        "phone": "0303969752",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7975683604,
+      "lat": 6.5914626,
+      "lon": 0.5534912,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8014897180,
+      "lat": 5.8216411,
+      "lon": -2.8237783,
+      "tags": {
+        "addr:street": "Annor Assemah High Street",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8015020105,
+      "lat": 5.82313,
+      "lon": -2.8208932,
+      "tags": {
+        "name": "Eric Ayensu Evergreen",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8015051134,
+      "lat": 5.8229093,
+      "lon": -2.8195884,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8017288780,
+      "lat": 5.633455,
+      "lon": -0.3262372,
+      "tags": {
+        "name": "Luk’s Chemicals",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8045342012,
+      "lat": 5.8428164,
+      "lon": -2.8439951,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8207687326,
+      "lat": 5.8232517,
+      "lon": -2.8226667,
+      "tags": {
+        "addr:street": "Tanor Boadi Street",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8246303152,
+      "lat": 5.6110894,
+      "lon": -2.734165,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8246333453,
+      "lat": 5.6106707,
+      "lon": -2.7339725,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8267413663,
+      "lat": 5.769395,
+      "lon": -2.7868783,
+      "tags": {
+        "name": "Rock of Ages Drug Store",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8268685853,
+      "lat": 5.7671596,
+      "lon": -2.7856077,
+      "tags": {
+        "name": "Arhin Leo Drug Store",
+        "phone": "0246733880",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8358953041,
+      "lat": 5.8219508,
+      "lon": -2.8229357,
+      "tags": {
+        "addr:street": "Annor Assemah High Street",
+        "name": "Augustine Nimfa Drugstore",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8358965096,
+      "lat": 5.8475902,
+      "lon": -2.8006737,
+      "tags": {
+        "phone": "0275055606",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8358994929,
+      "lat": 5.8827244,
+      "lon": -2.6670075,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8391232431,
+      "lat": 5.6926821,
+      "lon": -0.1994478,
+      "tags": {
+        "name": "Kwabena Kpogo Licenced Over the Counter Chemical Shop",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8606266441,
+      "lat": 7.2938808,
+      "lon": 0.3160592,
+      "tags": {
+        "name": "Matilda WemLiga Over the Counter pharmacy",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8708718130,
+      "lat": 5.7620856,
+      "lon": -0.1927114,
+      "tags": {
+        "name": "Mr Nartey David",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9064801167,
+      "lat": 5.6339483,
+      "lon": -2.2528733,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9102621040,
+      "lat": 5.3619941,
+      "lon": -1.94649,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9109544737,
+      "lat": 5.3626089,
+      "lon": -1.9461588,
+      "tags": {
+        "name": "Margritta Amoaful Drug Store",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9130853513,
+      "lat": 5.363867,
+      "lon": -1.9458844,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9161048854,
+      "lat": 5.6214641,
+      "lon": -2.1660301,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9234286755,
+      "lat": 6.1946851,
+      "lon": -2.4939121,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9247344001,
+      "lat": 6.2082646,
+      "lon": -2.4923325,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9365913334,
+      "lat": 6.7287165,
+      "lon": -1.6405793,
+      "tags": {
+        "description": "Over the counter medicine seller",
+        "name": "William Aburam OTCMS",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9501889741,
+      "lat": 6.0676599,
+      "lon": -2.3655625,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9501911358,
+      "lat": 5.8701659,
+      "lon": -2.4069003,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9586984391,
+      "lat": 5.7730488,
+      "lon": -2.5326248,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9693231451,
+      "lat": 5.702667,
+      "lon": -0.1998363,
+      "tags": {
+        "name": "Edmund Oware License Chemical/Herbal Shop",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 12:00-20:30",
+        "phone": "+233 24 985 3584",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9848011317,
+      "lat": 5.7222207,
+      "lon": -0.0577871,
+      "tags": {
+        "name": "Over the Counter (Nurudeem Salamatu)",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9925605217,
+      "lat": 10.8924436,
+      "lon": -1.0886613,
+      "tags": {
+        "name": "Over the Counter",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9993863725,
+      "lat": 7.0848849,
+      "lon": -1.563793,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10023106781,
+      "lat": 6.6213242,
+      "lon": -1.9856568,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10127307042,
+      "lat": 5.8286044,
+      "lon": -2.8178919,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10237570173,
+      "lat": 7.3958911,
+      "lon": -2.1844367,
+      "tags": {
+        "name": "Prince Opoku Agyemang",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10237606554,
+      "lat": 7.396794,
+      "lon": -2.1815079,
+      "tags": {
+        "name": "Alex Sakyi Agyapong",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10285963238,
+      "lat": 5.6802515,
+      "lon": -0.1842673,
+      "tags": {
+        "name": "A. N. Mukhtar Licensed Chemical Shop",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10286603493,
+      "lat": 5.6778144,
+      "lon": -0.1838188,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10289374587,
+      "lat": 5.6756436,
+      "lon": -0.1831225,
+      "tags": {
+        "name": "M. F. Mawusi Drug Store",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10289599309,
+      "lat": 5.6816851,
+      "lon": -0.1836726,
+      "tags": {
+        "name": "Felicia Ahiayibor Drugstore",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10292767376,
+      "lat": 5.6129975,
+      "lon": -1.5495966,
+      "tags": {
+        "name": "Eduropa Fie Herbal Shop",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10296275126,
+      "lat": 5.6765617,
+      "lon": -0.1784521,
+      "tags": {
+        "name": "Kenneth Isaac Drah Drugstore",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10296275128,
+      "lat": 5.6773,
+      "lon": -0.1782308,
+      "tags": {
+        "name": "Health Wealth",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10313996583,
+      "lat": 5.6128273,
+      "lon": -1.5461493,
+      "tags": {
+        "name": "Alpha one clinic",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10580515367,
+      "lat": 5.3828081,
+      "lon": -0.6444667,
+      "tags": {
+        "check_date": "2023-01-25",
+        "name": "Best care",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10601348324,
+      "lat": 5.6023427,
+      "lon": -1.54534,
+      "tags": {
+        "name": "Over counter chemical seller",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10605552504,
+      "lat": 5.3000955,
+      "lon": -1.9939699,
+      "tags": {
+        "name": "Charles Korkor Over the Counter Medicine Seller",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10606952350,
+      "lat": 5.6772936,
+      "lon": -0.1757959,
+      "tags": {
+        "name": "Lina's Medlife Otcms",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10606962969,
+      "lat": 5.6770722,
+      "lon": -0.1751175,
+      "tags": {
+        "name": "Evelyn Quacoe-Takrama otcms",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10608608237,
+      "lat": 5.6795739,
+      "lon": -0.1777384,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10635300290,
+      "lat": 5.7824274,
+      "lon": -2.7235979,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10635311611,
+      "lat": 5.7828889,
+      "lon": -2.7251139,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10672225337,
+      "lat": 5.7741387,
+      "lon": -2.7436543,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10675164339,
+      "lat": 5.7812281,
+      "lon": -2.7992397,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10679595233,
+      "lat": 5.8103596,
+      "lon": -2.83574,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10691064479,
+      "lat": 5.7319095,
+      "lon": -0.2033925,
+      "tags": {
+        "addr:housenumber": "144",
+        "addr:street": "Saka Addo Drive",
+        "air_conditioning": "no",
+        "check_date": "2023-02-24",
+        "currency:GHS": "yes",
+        "internet_access": "no",
+        "name": "Eben Kweku Newton",
+        "opening_hours": "Mo-Fr 07:00-21:00",
+        "payment:cards": "no",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "payment:mobilepay": "yes",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10913202278,
+      "lat": 5.7591799,
+      "lon": -2.5915891,
+      "tags": {
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10948613627,
+      "lat": 5.6073228,
+      "lon": -0.2227221,
+      "tags": {
+        "name": "OTCMS",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10948654707,
+      "lat": 5.6120478,
+      "lon": -0.2239357,
+      "tags": {
+        "name": "OTCMS",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10948658407,
+      "lat": 5.6062147,
+      "lon": -0.2200132,
+      "tags": {
+        "name": "OTCMS",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10948664040,
+      "lat": 5.6078069,
+      "lon": -0.2207045,
+      "tags": {
+        "name": "OTCMS",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10967534121,
+      "lat": 5.6447415,
+      "lon": -0.0938387,
+      "tags": {
+        "check_date": "2023-06-10",
+        "internet_access": "no",
+        "name": "H. B. Ofosu Licensed Chemical Seller",
+        "payment:cards": "no",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "shop": "chemist",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 615400066,
+      "nodes": [
+        5819415160,
+        5819415161,
+        5819415162,
+        5819873009,
+        5819873008,
+        5819415163,
+        5819415160
+      ],
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "ABC",
+        "addr:street": "Wulomo Shipi Sika Street",
+        "addr:suburb": "Alogboshie",
+        "building": "commercial",
+        "building:levels": "1",
+        "building:material": "concrete;cement_block",
+        "name": "KAI'S Herbal Shop",
+        "roof:material": "tile",
+        "shop": "chemist",
+        "source": "Open Cities Accra - HOT Field Survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 631562709,
+      "nodes": [
+        5963980003,
+        5963980000,
+        5963980001,
+        5963980002,
+        5963980003
+      ],
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Akweteyman",
+        "addr:street": "Aaye-Ayee Fɛɛ Close",
+        "addr:suburb": "Akweteyman",
+        "building": "commercial",
+        "building:levels": "1",
+        "building:material": "cement_block",
+        "name": "AB Mills Chemist",
+        "roof:material": "tile",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 705549942,
+      "nodes": [
+        6629386442,
+        6629386441,
+        6629386440,
+        6629386439,
+        6629386442
+      ],
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "Baba Alhamdu Street",
+        "addr:suburb": "15 Bob",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 708042673,
+      "nodes": [
+        6653110221,
+        6653110218,
+        6653110219,
+        6653110220,
+        6653110221
+      ],
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "Nii Sentse Street",
+        "addr:suburb": "New Town",
+        "building": "commercial",
+        "building:levels": "1",
+        "building:material": "wood",
+        "name": "Mavis Mitchell Buatey",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "roof:material": "metal",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 708065287,
+      "nodes": [
+        6653341003,
+        6653341000,
+        6653341001,
+        6653341002,
+        6653341003
+      ],
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "Nuriya Close",
+        "building": "commercial",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 750741697,
+      "nodes": [
+        7019452237,
+        7019452236,
+        7019452235,
+        7019452234,
+        7019452237
+      ],
+      "tags": {
+        "addr:city": "Accra",
+        "addr:community": "Nima",
+        "addr:street": "NewTown Road",
+        "addr:suburb": "Sweet Apple",
+        "building": "commercial",
+        "building:levels": "1",
+        "name": "Power Herbal Centre",
+        "phone": "+233243787194",
+        "shop": "chemist",
+        "source": "Open Cities Accra / GARID- Field Survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 958430113,
+      "nodes": [
+        8867835072,
+        8867835069,
+        8867835070,
+        8867835071,
+        8867835072
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "derrick chemist",
+        "opening_hours": "24/7",
+        "shop": "chemist",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5963980000,
+      "lat": 5.6116321,
+      "lon": -0.233595
+    },
+    {
+      "type": "node",
+      "id": 5963980001,
+      "lat": 5.6116848,
+      "lon": -0.2335789
+    },
+    {
+      "type": "node",
+      "id": 5963980002,
+      "lat": 5.6116708,
+      "lon": -0.2335326
+    },
+    {
+      "type": "node",
+      "id": 5963980003,
+      "lat": 5.6116181,
+      "lon": -0.2335487
+    },
+    {
+      "type": "node",
+      "id": 5819415160,
+      "lat": 5.6286492,
+      "lon": -0.2335289
+    },
+    {
+      "type": "node",
+      "id": 5819415161,
+      "lat": 5.6286085,
+      "lon": -0.2335039
+    },
+    {
+      "type": "node",
+      "id": 5819415162,
+      "lat": 5.6286435,
+      "lon": -0.2334465
+    },
+    {
+      "type": "node",
+      "id": 5819415163,
+      "lat": 5.6286823,
+      "lon": -0.2334746
+    },
+    {
+      "type": "node",
+      "id": 5819873008,
+      "lat": 5.6286742,
+      "lon": -0.2334696
+    },
+    {
+      "type": "node",
+      "id": 5819873009,
+      "lat": 5.6286761,
+      "lon": -0.2334665
+    },
+    {
+      "type": "node",
+      "id": 6653110218,
+      "lat": 5.5850799,
+      "lon": -0.2056254
+    },
+    {
+      "type": "node",
+      "id": 6653110219,
+      "lat": 5.585035,
+      "lon": -0.2056146
+    },
+    {
+      "type": "node",
+      "id": 6653110220,
+      "lat": 5.5850261,
+      "lon": -0.2056515
+    },
+    {
+      "type": "node",
+      "id": 6653110221,
+      "lat": 5.585071,
+      "lon": -0.2056624
+    },
+    {
+      "type": "node",
+      "id": 6653341000,
+      "lat": 5.5796121,
+      "lon": -0.1962757
+    },
+    {
+      "type": "node",
+      "id": 6653341001,
+      "lat": 5.5795957,
+      "lon": -0.1962827
+    },
+    {
+      "type": "node",
+      "id": 6653341002,
+      "lat": 5.5796032,
+      "lon": -0.1963003
+    },
+    {
+      "type": "node",
+      "id": 6653341003,
+      "lat": 5.5796196,
+      "lon": -0.1962933
+    },
+    {
+      "type": "node",
+      "id": 7019452234,
+      "lat": 5.5890172,
+      "lon": -0.2071785
+    },
+    {
+      "type": "node",
+      "id": 7019452235,
+      "lat": 5.5890395,
+      "lon": -0.2071764
+    },
+    {
+      "type": "node",
+      "id": 7019452236,
+      "lat": 5.5890426,
+      "lon": -0.2072088
+    },
+    {
+      "type": "node",
+      "id": 7019452237,
+      "lat": 5.5890203,
+      "lon": -0.2072109
+    },
+    {
+      "type": "node",
+      "id": 6629386439,
+      "lat": 5.5900947,
+      "lon": -0.1930631
+    },
+    {
+      "type": "node",
+      "id": 6629386440,
+      "lat": 5.590109,
+      "lon": -0.1930779
+    },
+    {
+      "type": "node",
+      "id": 6629386441,
+      "lat": 5.5900953,
+      "lon": -0.1930912
+    },
+    {
+      "type": "node",
+      "id": 6629386442,
+      "lat": 5.590081,
+      "lon": -0.1930765
+    },
+    {
+      "type": "node",
+      "id": 8867835069,
+      "lat": 6.6579091,
+      "lon": -1.5934848
+    },
+    {
+      "type": "node",
+      "id": 8867835070,
+      "lat": 6.6576853,
+      "lon": -1.5935988
+    },
+    {
+      "type": "node",
+      "id": 8867835071,
+      "lat": 6.6577289,
+      "lon": -1.5936855
+    },
+    {
+      "type": "node",
+      "id": 8867835072,
+      "lat": 6.6579526,
+      "lon": -1.5935715
+    }
+  ]
+}
