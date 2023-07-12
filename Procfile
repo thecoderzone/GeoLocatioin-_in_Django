@@ -1,1 +1,1 @@
-web: gunicorn nearbyshops.wsgi --log-file -
+web: gunicorn nearbyshops.wsgi --log-file 
