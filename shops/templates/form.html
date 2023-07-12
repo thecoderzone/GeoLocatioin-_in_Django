@@ -1,6 +1,6 @@
+<h3>Enter your Position in the fields</h3>
 <form method="post" action="{% url 'find_shops' %}">
     {% csrf_token %}
     {{ form.as_p }}
     <button type="submit">Find Shops</button>
   </form>
-  
