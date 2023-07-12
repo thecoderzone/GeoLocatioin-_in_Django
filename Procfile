@@ -1,1 +1,1 @@
-web gunicorn GeoLocation_in_Django.wsgi:application --log-file -
+web: gunicorn nearbyshops.wsgi --log-file -
