@@ -1,6 +1,26 @@
-<h3>Enter your Position in the fields</h3>
-<form method="post" action="{% url 'find_shops' %}">
-    {% csrf_token %}
-    {{ form.as_p }}
-    <button type="submit">Find Shops</button>
-  </form>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Position forms</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+      <body>
+        <div class="jumbotron text-center">
+          <h1>Pharmacy Location App</h1>
+          <p>Geolocation with Django</p> 
+        </div>
+              <div class="container-fluid">
+            <h4>Enter your Position in the fields</h5>
+            <form method="post" action="{% url 'find_shops' %}">
+              {% csrf_token %}
+              {{ form.as_p }}
+              <button type="submit">Find Shops</button>
+            </form>
+                <p> Few seconds to load</p>           
+      </div>
+    </body>
+  </html>
