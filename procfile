@@ -1,0 +1,2 @@
+web gunicorn nearbyshops.wsgi:application --log-file -
+
